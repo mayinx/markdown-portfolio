@@ -6,7 +6,12 @@
       2. Protector
       3. The Ringworld Engeneers
       4. The Ringworld Throne
-      5. Ringworld's Children 
+      5. Ringworld's Children
+   2. William Hertling 
+      1. Avogadro Corp: The Singularity Is Closer Than It Appears (Singularity 1)  
+      2. A.I. APOCALYPSE (Singularity 2)
+      3. The last Firewall  (Singularity 3)  
+      4. The Turing Exception (Singularity 4) 
    2. Daniel Suarez
       1. Daemon
       2. Darknet
