@@ -25,5 +25,6 @@
    1. Chuck - The Nerd Herd 
    2. Battle Star Galalctica (Frack me! BSG forever! Frack those mother-frackin toasters!) 
    3. Breaking Bad 
-   4. Weeds
-   5. ...
+   4. Better call Saul
+   5. Weeds
+   6. ...
