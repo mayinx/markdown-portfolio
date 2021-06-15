@@ -1,4 +1,4 @@
-## Awesome attributes o fmine 
+## Awesome attributes of mine 
 
 *This text will be italic*
 _This will also be italic_
